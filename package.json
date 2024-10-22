@@ -17,28 +17,28 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "15.2.2",
-    "@angular/common": "15.2.2",
-    "@angular/compiler": "15.2.2",
-    "@angular/core": "15.2.2",
-    "@angular/forms": "15.2.2",
-    "@angular/platform-browser": "15.2.2",
-    "@angular/platform-browser-dynamic": "15.2.2",
-    "@angular/router": "15.2.2",
+    "@angular/animations": "18.0.0",
+    "@angular/common": "18.0.0",
+    "@angular/compiler": "18.0.0",
+    "@angular/core": "18.0.0",
+    "@angular/forms": "18.0.0",
+    "@angular/platform-browser": "18.0.0",
+    "@angular/platform-browser-dynamic": "18.0.0",
+    "@angular/router": "18.0.0",
     "@asymmetrik/leaflet-d3": "6",
-    "@asymmetrik/ngx-leaflet": "15",
+    "@aikicode/ngx-leaflet": "git@github.com:aikicode/ngx-leaflet.git",
     "bootstrap": "^4.6.1",
     "d3": "7",
     "d3-hexbin": "0.2",
     "leaflet": "1",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
-    "zone.js": "~0.11.4"
+    "zone.js": "~0.14.0"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "15.2.2",
-    "@angular/cli": "15.2.2",
-    "@angular/compiler-cli": "15.2.2",
+    "@angular-devkit/build-angular": "18.0.0",
+    "@angular/cli": "18.0.0",
+    "@angular/compiler-cli": "18.0.0",
     "@types/d3": "7",
     "@types/jasmine": "~3.10.0",
     "@types/leaflet": "1",
@@ -51,6 +51,6 @@
     "karma-jasmine": "~4.0.0",
     "karma-jasmine-html-reporter": "~1.7.0",
     "ng-packagr": "15.2.2",
-    "typescript": "4.9.5"
+    "typescript": "5.4.2"
   }
 }
