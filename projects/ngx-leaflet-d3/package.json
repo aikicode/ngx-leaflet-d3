@@ -14,7 +14,7 @@
     "@angular/common": "15",
     "@angular/core": "15",
     "@asymmetrik/leaflet-d3": "6",
-    "@asymmetrik/ngx-leaflet": "15",
+    "ngx-leaflet": "git@github.com:aikicode/ngx-leaflet.git",
     "d3": "7",
     "d3-hexbin": "0.2",
     "leaflet": "1"

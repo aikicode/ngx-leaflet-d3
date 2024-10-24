@@ -4,7 +4,7 @@ import { Observable, Observer } from 'rxjs';
 import * as L from 'leaflet';
 import '@asymmetrik/leaflet-d3';
 
-import { LeafletDirective, LeafletDirectiveWrapper } from '@asymmetrik/ngx-leaflet';
+import { LeafletDirective, LeafletDirectiveWrapper } from 'ngx-leaflet';
 import { LeafletPingEvent } from '../ping/leaflet-ping-event.model';
 
 @Directive({

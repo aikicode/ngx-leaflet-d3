@@ -3,7 +3,7 @@ import { Directive, EventEmitter, Input, NgZone, OnChanges, OnInit, Output, Simp
 import * as L from 'leaflet';
 import '@asymmetrik/leaflet-d3';
 
-import { LeafletDirective, LeafletDirectiveWrapper } from '@asymmetrik/ngx-leaflet';
+import { LeafletDirective, LeafletDirectiveWrapper } from 'ngx-leaflet';
 
 
 @Directive({
